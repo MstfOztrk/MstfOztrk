@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MstfOztrk
+- 👋 Hi, I’m Mustafa Ozturk
 - 👀 I’m interested in C# and Unity
 - 🌱 I’m currently learning JavaScript and Css
 - 📫 How to reach me oztrk.mstf.43@gmail.com  or  https://www.linkedin.com/in/mustafa-%C3%B6zt%C3%BCrk-220b0a205/
